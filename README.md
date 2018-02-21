@@ -16,6 +16,8 @@
 
 * safe area layout guides need to be used so that your **important** content doesn't get hidden by weird iphone screens (iphone x)
 
+https://developer.apple.com/documentation/uikit/uiview/1622651-layoutmarginsguidew
+
 ## Rules of Auto layout
 
 > When you use Auto Layout, never ever ever set the frame.
